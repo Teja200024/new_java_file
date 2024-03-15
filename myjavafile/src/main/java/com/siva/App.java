@@ -12,7 +12,7 @@ public class App
 	a=89;
 	b=102;
 	c=a+b;
-	System.out.println("the sum is"+c);
+	System.out.println("the sum is "+c);
         System.out.println( "Hello World!" );
     }
 }
